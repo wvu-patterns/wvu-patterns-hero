@@ -1,0 +1,10 @@
+// WVU Hero Module
+// ====
+
+$wvu-hero-container-height: 400px !default;
+$wvu-hero-text-align: center !default;
+
+.wvu-hero {
+  height: $wvu-hero-container-height;
+  text-align: $wvu-hero-text-align;
+}

@@ -1,0 +1,10 @@
+{
+  "_wvu-hero" : {
+    "css" : [
+      { "src":"css/wvu-hero.css" }
+    ],
+    "class" : "wvu-hero",
+    "title" : "Hero Title",
+    "text" : "This is some awesome hero content"
+  }
+}
