@@ -1,0 +1,20 @@
+{
+  "name": "wvu-patterns-hero",
+  "version": "0.0.1",
+  "homepage": "https://github.com/wvu-patterns/wvu-patterns-hero",
+  "authors": [
+    "Steven Spriggs <steven.spriggs@gmail.com>"
+  ],
+  "description": "WVU Pattern Library - Hero Module",
+  "keywords": [
+    "wvu"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
