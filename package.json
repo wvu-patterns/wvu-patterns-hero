@@ -1,6 +1,6 @@
 {
   "name": "wvu-patterns-hero",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "WVU Pattern Library - Hero Module",
   "main": "gulpfile.js",
   "scripts": {
