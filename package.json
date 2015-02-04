@@ -1,24 +1,26 @@
 {
   "name": "wvu-patterns-hero",
+  "homepage": "https://github.com/wvu-patterns/wvu-patterns-hero",
   "version": "0.0.2",
-  "description": "WVU Pattern Library - Hero Module",
-  "main": "gulpfile.js",
-  "scripts": {
-    "test": "gulp ci"
-  },
   "repository": {
     "type": "git",
     "url": "https://github.com/wvu-patterns/wvu-patterns-hero.git"
   },
-  "keywords": [
-    "wvu"
-  ],
-  "author": "Steven Spriggs <steven.spriggs@gmail.com>",
-  "license": "MIT",
   "bugs": {
     "url": "https://github.com/wvu-patterns/wvu-patterns-hero/issues"
   },
-  "homepage": "https://github.com/wvu-patterns/wvu-patterns-hero",
+  "author": "Steven Spriggs <steven.spriggs@mail.wvu.edu>",
+  "keywords": [
+    "wvu",
+    "west virginia university",
+    "patterns"
+  ],
+  "description": "WVU Pattern Library - Hero Module",
+  "license": "MIT",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "gulp ci"
+  },
   "devDependencies": {
     "browser-sync": "^1.7.0",
     "del": "^0.1.3",

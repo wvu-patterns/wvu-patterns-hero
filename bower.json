@@ -1,19 +1,29 @@
 {
   "name": "wvu-patterns-hero",
-  "version": "0.0.2",
   "homepage": "https://github.com/wvu-patterns/wvu-patterns-hero",
+  "version": "0.0.2",
   "authors": [
-    "Steven Spriggs <steven.spriggs@gmail.com>"
+    "Steven Spriggs <steven.spriggs@mail.wvu.edu>",
+    "Dustin Mazon <dustin.mazon@mail.wvu.edu>"
+  ],
+  "keywords": [
+    "wvu",
+    "west virginia university",
+    "patterns"
   ],
   "description": "WVU Pattern Library - Hero Module",
-  "keywords": [
-    "wvu"
-  ],
   "license": "MIT",
+  "main": [
+    "src/cleanslate/_wvu-hero.html",
+    "src/handlebars/data/_wvu-hero.json",
+    "src/handlebars/partials/_wvu-hero.hbs",
+    "src/scss/_wvu-hero.scss"
+  ],
   "ignore": [
     "**/.*",
     "node_modules",
     "bower_components",
+    "build",
     "test",
     "tests"
   ]
