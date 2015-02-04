@@ -6,5 +6,10 @@
     "class" : "wvu-hero",
     "title" : "Hero Title",
     "text" : "This is some awesome hero content"
+    "button" : {
+      "class" : "wvu-hero__button",
+      "url" : "#wvu-hero__button",
+      "text" : "Button"
+    }
   }
 }
